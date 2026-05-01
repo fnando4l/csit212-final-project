@@ -65,7 +65,7 @@ export default function Hero() {
             <GithubIcon size={22} />
           </a>
           <a
-            href="mailto:fernandgbodjo147@gmail.com"
+            href="mailto:admin@fernixsapp.com"
             className="hover:text-white transition-colors"
             aria-label="Email"
           >

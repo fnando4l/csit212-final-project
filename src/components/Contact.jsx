@@ -23,7 +23,7 @@ export default function Contact() {
 
         <div className="grid sm:grid-cols-2 gap-4 max-w-2xl mx-auto">
           <a
-            href="mailto:fernandgbodjo147@gmail.com"
+            href="mailto:admin@fernixsapp.com"
             className="group glass rounded-2xl p-6 text-left card-hover"
           >
             <div className="flex items-start justify-between">
@@ -33,7 +33,7 @@ export default function Contact() {
                   Email
                 </p>
                 <p className="text-white font-medium break-all">
-                  fernandgbodjo147@gmail.com
+                  admin@fernixsapp.com
                 </p>
               </div>
               <ArrowUpRight
